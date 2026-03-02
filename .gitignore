@@ -1,0 +1,15 @@
+#logins
+admin@auth.com
+admin123
+
+#env
+.env
+
+#venv
+venv
+
+#db
+db.sqlite3
+
+#media
+media
