@@ -1,0 +1,13 @@
+[flake8]
+exclude =
+    .git,
+    __pycache__,
+    build,
+    dist,
+    venv,
+    env,
+    .venv,
+    migrations,
+    .env,
+    media
+max-line-length = 120
